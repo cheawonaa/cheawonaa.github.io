@@ -1,0 +1,87 @@
+body {
+  /*background-color: #0042c1;*/
+  background-color: white;
+}
+
+.headImage {
+  width: 700px;
+}
+.father {
+  margin-top: 150px;
+}
+div.bio {
+  font-family: Times, serif;
+  font-size: 20px;
+  color: white;
+  text-shadow: 2px 2px 5px yellow;
+  position: absolute;
+  right: 50px;
+  top: 30px;
+}
+
+h3 {
+  font-family: Times;
+  font-style: italic;
+  color: blue;
+  margin-left: 10px;
+}
+
+div.oase79 {
+  margin-top: 200px;
+}
+
+img.oase {
+  /*display: block;
+  margin-left: auto;
+  margin-right: auto;*/
+  display: block;
+  width: 80%;
+}
+
+
+.contact {
+  font-size: 20px;
+  color: white;
+  text-shadow: 2px 2px 5px yellow;
+  position: absolute;
+  right: 50px;
+  top: 65px;
+}
+
+.moreworks {
+  font-size: 20px;
+  color: white;
+  text-shadow: 2px 2px 5px yellow;
+  position: absolute;
+  right: 50px;
+  top: 110px;
+}
+
+div.workspaceForMySelf {
+  /*margin-left: auto;
+  margin-right: auto;
+  margin-top: 150px;
+  display: block*/
+  margin-top: 150px;
+}
+
+div.poster_work{
+  margin-top: 150px;
+}
+.workposter {
+  display: block;
+  width: 80%;
+}
+
+.yangpa {
+  margin-top: 150px;
+}
+.yangpa img {
+  width: 40%;
+}
+
+.dis1 {
+  padding-left: 800px;
+  color: blue;
+  line-height: 1.3
+}
